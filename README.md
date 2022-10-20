@@ -37,3 +37,10 @@ I am a small self-taught PHP developer <img src="https://media2.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="TailwindCSS"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px" alt="Bootstrap"/>
 </div>
+
+---
+
+<div id="pokemon" align="center">
+  <img src="https://media2.giphy.com/media/U2nN0ridM4lXy/giphy.gif" width="400" height="250" alt="pikachu"/>
+  <h3>Try{} catch'em{} all</h3>
+</div>
