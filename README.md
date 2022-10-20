@@ -21,6 +21,7 @@ I am a small self-taught PHP developer <img src="https://media2.giphy.com/media/
 - 💻 In my life I also had contact with web servers (Linux) and containerization (Docker). I've also seen a lot of attacks on the application (layer 7) and servers (layer 4) and had fun defending against them (not all succeeded 😂) 
 - 📫 How to reach me: contact@daffyy.pl or DaFFyy#1334 on Discord
 - ⚡ Fun fact: I'm recognizes PHP as a programming language <img src="https://media2.giphy.com/media/eruVMzXlb70oo/giphy.gif" width="32px" alt="funny man"/>
+- 🎮 I can also into  gameservers, I have had a lot of them in my life and I still run some of them
 
 ---
 
@@ -35,6 +36,4 @@ I am a small self-taught PHP developer <img src="https://media2.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40px" alt="Linux"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="TailwindCSS"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px" alt="Bootstrap"/>
-  
-  
 </div>
