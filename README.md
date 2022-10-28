@@ -7,12 +7,6 @@
   <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="greeting hand" width="32px"/></h2>
 </div>
 
-<div id="about-me" align="center">
-  <img src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="250"/>
-</div>
-
----
-
 ### :man_technologist: About Me:
 I am a small self-taught PHP developer <img src="https://media2.giphy.com/media/uzglgIsyY1Cgg/giphy.gif" width="32px" alt="cat learns about coding"/> from a village near Wrocław. 
 - :telescope: I'm currently looking for a job as a junior PHP developer, often carries out orders for friends or for my backend projects.
