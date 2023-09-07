@@ -13,7 +13,7 @@ I am a small self-taught PHP developer <img src="https://media2.giphy.com/media/
 - 🌱 I’m currently learning more stuff about PHP, sometimes C# or PYTHON  which I'm not afraid to use, but they are at a low level.
 - 🤔 I’m looking for help with gaining professional experience as developer.
 - 💻 In my life I also had contact with web servers (Linux) and containerization (Docker). I've also seen a lot of attacks on the application (layer 7) and servers (layer 4) and had fun defending against them (not all succeeded 😂) 
-- 📫 How to reach me: contact@daffyy.pl or DaFFyy#1334 on Discord.
+- 📫 How to reach me: `contact@daffyy.app` or `daffyy` on Discord.
 - ⚡ Fun fact: I'm recognizes PHP as a programming language. <img src="https://media2.giphy.com/media/eruVMzXlb70oo/giphy.gif" width="32px" alt="funny man"/>
 - 🎮 I can also into  gameservers, I have had a lot of them in my life and I still run some of them.
 
